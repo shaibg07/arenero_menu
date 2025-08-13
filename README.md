@@ -5,4 +5,4 @@ Primer repositorio (tecnologias web)
 **Materia:** Tecnologías Web
 **Periodo:** Otoño
 
-**Descripción:** Proyecto de ejemplo para repasar comandos básicos de UNIX, configurar un repositoiro local con Git y uso básico de comandos de Git para gestionar versiones de proyectos.
+**Descripción:** Proyecto de ejemplo para repasar comandos básicos degit  UNIX, configurar un repositoiro local con Git y uso básico de comandos de Git para gestionar versiones de proyectos.
